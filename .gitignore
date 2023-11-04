@@ -5,3 +5,6 @@
 *.csr
 *.key
 openssl.cnf
+
+# 9.2 HTTP/2のサーバープッシュで追加した画像を無視
+image.png
